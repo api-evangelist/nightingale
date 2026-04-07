@@ -5,10 +5,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-      - Clients
-      - GUI
-      - Windows
-      - REST Client
+  - Clients
+  - GUI
+  - REST Client
+  - Windows
 url: >-
   https://raw.githubusercontent.com/api-evangelist/nightingale/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -21,10 +21,10 @@ apis:
       Nightingale REST Client is a modern, resource-friendly REST API client for Windows.
     humanURL: https://nightingale.rest
     tags:
-        - Clients
-        - GUI
-        - Windows
-        - REST Client
+      - Clients
+      - GUI
+      - REST Client
+      - Windows
     properties:
       - type: Documentation
         url: https://nightingale.rest/docs
