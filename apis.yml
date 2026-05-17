@@ -28,14 +28,14 @@ apis:
     properties:
       - type: Documentation
         url: https://nightingale.rest/docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://nightingale.rest
 common:
   - type: Website
     url: https://nightingale.rest
   - type: Documentation
     url: https://nightingale.rest/docs
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/jenius-apps/nightingale-rest-api-client
 maintainers:
   - FN: Kin Lane
