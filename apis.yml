@@ -54,6 +54,12 @@ apis:
       - type: GettingStarted
         url: https://nightingale.rest
 common:
+  - type: Plans
+    url: plans/nightingale-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/nightingale-rate-limits.yml
+  - type: FinOps
+    url: finops/nightingale-finops.yml
   - type: DomainSecurity
     url: security/nightingale-domain-security.yml
   - type: Website
